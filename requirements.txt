@@ -1,0 +1,5 @@
+streamlit==1.10.0  # Adjust the version as per your app's compatibility
+numpy==1.22.3  # Adjust the version as per your app's compatibility
+pandas==1.4.2  # Adjust the version as per your app's compatibility
+scikit-learn==1.0.2  # Adjust the version as per your app's compatibility
+joblib==1.1.0  # Adjust the version as per your app's compatibility
