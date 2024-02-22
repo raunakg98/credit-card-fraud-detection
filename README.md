@@ -26,4 +26,4 @@ The app is based on a dataset containing transactions made by credit card holder
 
 To run the app locally:
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/raunakg98/credit-card-fraud-detection.git
